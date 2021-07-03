@@ -4,7 +4,7 @@
       <div class="row">
         <PortfolioItem
           @showDetail="onShowDetail(proj)"
-          v-for="(proj, idx) in projects"
+          v-for="(proj) in projects"
           :project="proj"
           :key="proj.name"
           class="col-6"

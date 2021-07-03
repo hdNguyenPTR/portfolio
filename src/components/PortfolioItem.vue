@@ -4,10 +4,10 @@
       <div class="image-container" >
         <g-image
           class="thumbnail"
-          src="~/assets/images/projects/8sec_image.png" fit="stretch" v-if="project.code === '8secondz'" />
+          src="~/assets/images/projects/8sec_image.png" fit="contains" v-if="project.code === '8secondz'" />
         <g-image
           class="thumbnail"
-          src="~/assets/images/projects/seaforth.png" fit="stretch" v-else-if="project.code === 'seaforth'" />
+          src="~/assets/images/projects/seaforth.png" fit="contains" v-else-if="project.code === 'seaforth'" />
         <div class="thumbnail-controls"
           @mouseover="showControl = true"
           @mouseleave="showControl = false"
