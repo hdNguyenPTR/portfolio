@@ -1,9 +1,12 @@
 # Portfolio
 Hi, this is my portfolio, inspired by all the portfolio outhere.
-Built with [Gridsome](https://gridsome.org/) + [VueJS](https://vuejs.org/)
 
-Checkout [demo](https://duc-portfolio.herokuapp.com/)
+
+Checkout the [demo](https://duc-portfolio.herokuapp.com/)
+
 ![Portfolio site](/docs/images/Screenshot.PNG)
+
+Built with [Gridsome](https://gridsome.org/) + [VueJS](https://vuejs.org/)
 ![Gridsome + Vue](/docs/images/gridsome_vue.png)
 
 ## Develop
