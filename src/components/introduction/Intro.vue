@@ -8,7 +8,7 @@
             alt=""
             quality="100"
             width="270"/>
-            <h2 class="hero-title">Hello Guys, I'm <strong>{{ personal.name }}</strong></h2>
+            <h2 class="hero-title">Hey hey, I'm <strong>{{ personal.name }}</strong></h2>
             <p class="hero-tagline">
               I am a
               <ClientOnly>

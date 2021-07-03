@@ -66,11 +66,7 @@ export default {
   },
   methods: {
     downloadResume() {
-      if (!this.isPaid) {
-        window.open(this.coffeeDonateUrl, '_blank')
-      } else {
-        window.open('https://www.linkedin.com/in/ittus/', '_blank')
-      }
+      window.open('https://www.linkedin.com/in/duc-nguyen-ptr')
     }
   }
 }
