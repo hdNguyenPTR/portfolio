@@ -6,7 +6,8 @@
     "develop": "gridsome develop",
     "explore": "gridsome explore",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "start": "node server.js"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.17",
@@ -14,6 +15,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.8.1",
     "@fortawesome/vue-fontawesome": "^0.1.6",
     "bootstrap": "^4.3.1",
+    "express": "^4.17.1",
     "gridsome": "^0.7.0",
     "vue": "^2.6.12",
     "vue-typer": "^1.2.0"
