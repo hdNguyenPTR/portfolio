@@ -2,7 +2,7 @@
 Hi, this is my portfolio, inspired by all the portfolio outhere.
 Built with [Gridsome](https://gridsome.org/) + [VueJS](https://vuejs.org/)
 
-Checkout [demo](https://me.coddeine.com)
+Checkout [demo](https://duc-portfolio.herokuapp.com/)
 
 ![Gridsome + Vue](/docs/images/gridsome_vue.png)
 
