@@ -1,10 +1,10 @@
 # Portfolio
-Hi, this is my portfolio, inspired by all the portfolio outhere.
+Hi, this is my portfolio, inspired by all the portfolio out there.
 
 
 Checkout the [demo](https://duc-portfolio.herokuapp.com/)
 
-![Portfolio site](/docs/images/Screenshot.PNG)
+![Portfolio site](/docs/images/portfolio.gif)
 
 Built with [Gridsome](https://gridsome.org/) + [VueJS](https://vuejs.org/)
 
